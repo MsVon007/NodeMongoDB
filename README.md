@@ -1,2 +1,2 @@
 # NodeMongoDB
-Week 3 Workshop Assignment
+Week 2 Workshop Assignment
